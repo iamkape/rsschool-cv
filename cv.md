@@ -6,4 +6,4 @@
 >
 ># Have some experience in  HTML&CSS , javascript .  Low experince in  C++ ,  C#;
 >
->[I have experience in writing code](https://https://github.com/iamkape);
+>[I have experience in writing code](https://github.com/iamkape);
